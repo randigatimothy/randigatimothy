@@ -11,7 +11,7 @@ I'm a pharmacist with a focus on data-driven insights in cancer biology, epidemi
 - 🔬 &nbsp;Interests: cancer biology, oncology pharmacology, epidemiology
 - 🐍 &nbsp;Currently learning: Python, pandas, scikit-learn
 - 📊 &nbsp;Goal: applying data analysis to real-world oncology and public health problems
-- 🌍 &nbsp;Based in South Africa
+- 🌍 &nbsp;Based in Cape Town and Nairobi
 
 ---
 
